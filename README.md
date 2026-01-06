@@ -73,5 +73,5 @@ This tool is for **educational and personal use only**.
 
 ## 🤝 Credits
 
-* Developed by **Abhin Krishna**.
+* Developed by **Bryan Parreira**.
 * Algorithm adapted from [GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool).
